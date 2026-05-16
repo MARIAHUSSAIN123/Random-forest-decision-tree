@@ -1,0 +1,10 @@
+# Conclusion
+
+Random Forest Classifier was successfully
+implemented for heart disease prediction.
+
+The model achieved strong classification accuracy
+and performed better than a single Decision Tree.
+
+Feature importance analysis helped identify
+the most influential medical features.
